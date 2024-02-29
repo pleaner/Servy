@@ -24,9 +24,4 @@ defmodule Servy.Wildthings do
     id |> String.to_integer |> get_bear
   end
 
-
-
-
-
-
 end

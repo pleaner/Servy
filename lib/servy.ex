@@ -1,6 +1,10 @@
 defmodule Servy do
   def hello(name) do
-    "Howdy, #{name}!"
+    "Hello, #{name}!"
+  end
+
+  def hello() do
+    :world
   end
 end
 
